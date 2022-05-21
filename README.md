@@ -4,7 +4,7 @@
 <h1 align="center">🍹Odin Recipes🍽️</h1>
 
 <p align="center">I'm on my first little project in HTML, learning in baby steps...</p>
-<p align="center">This project is on V1.0</p>
+<p align="center">This project is on V0.2</p>
 <br>
 
 ### Tools
